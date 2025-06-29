@@ -1,4 +1,5 @@
-PetMate: Your Pet's Pocket Care Buddy
+# PetMate: Your Pet's Pocket Care Buddy
+
 PetMate is an iOS application designed to help pet owners easily track and manage their pet's daily care routines. Never forget a task again and ensure your furry, scaly, or feathered friends are always happy and well-cared for!
 
 🐾 The Problem
